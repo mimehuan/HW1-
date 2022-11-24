@@ -1,2 +1,1 @@
-For the emissive material, SNature_Rock(1) is the one with it, and the teal emission can be seen on other surfaces, like the surrounding grass. However, because I 
-added a particle system to the same rock, I cannot see the material in the inspector anymore when I click on it, just to note. 
+For the emissive material, SNature_Rock(1) is the one with it, and the teal emission can be seen on other surfaces, like the surrounding grass. However, because I added a particle system to the same rock, I cannot see the material in the inspector anymore when I click on it, just to note. 
